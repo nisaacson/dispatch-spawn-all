@@ -19,7 +19,8 @@
   "gitHead": "c677cff879e6598b7b71708bf6965d4c9e45b31e",
   "dependencies": {
     "async": "~0.2.8",
-    "dispatch-spawn": "~1.0.2"
+    "dispatch-spawn": "~1.0.2",
+    "dispatch-should-spawn": "~1.0.1"
   },
   "devDependencies": {
     "eyespect": "~0.1.8",
