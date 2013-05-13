@@ -8,6 +8,9 @@ describe('Spawn All', function () {
       spawnCount += 1
       cb()
     })
+    spawnAll.__set__('shouldSpawn', function (data, cb) {
+      cb(null, true)
+    })
     var commands = [
       {
         host: 'localhost',
