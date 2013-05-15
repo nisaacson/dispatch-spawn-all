@@ -20,7 +20,7 @@
   "dependencies": {
     "async": "~0.2.8",
     "dispatch-spawn": "~1.0.2",
-    "dispatch-should-spawn": "~1.0.1"
+    "dispatch-should-spawn": "~1.0.2"
   },
   "devDependencies": {
     "eyespect": "~0.1.8",
