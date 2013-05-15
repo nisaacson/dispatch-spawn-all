@@ -1,6 +1,6 @@
 {
   "name": "dispatch-spawn-all",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Spawn all commands for a given dispatch installation. Useful to start a complete service stack when a web-server restarts'",
   "main": "index.js",
   "scripts": {
